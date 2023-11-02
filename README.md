@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @z0ndicheskiy
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @z0ndicheskiy привет я зондический
+- 👀 I’m interested in programming я интиресуюсь програмированием
+-I'm from Crimea я из крыма 
 
 <!---
 z0ndicheskiy/z0ndicheskiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
